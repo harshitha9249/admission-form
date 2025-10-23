@@ -1,0 +1,39 @@
+body {
+    background-color: beige; 
+    font-family: Arial, sans-serif;
+    color: blue;              
+    text-align: center;       
+}
+
+form {
+    background-color: #e6f0ff; 
+    width: 90%;
+    max-width: 500px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+input, select {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+}
+
+input[type="submit"] {
+    background-color: blue;
+    color: beige;
+    padding: 10px;
+    margin-top: 15px;
+    border: none;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: darkblue;
+}
