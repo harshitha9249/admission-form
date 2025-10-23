@@ -1,23 +1,21 @@
-/* Courses Page CSS - Blue Boxes on Beige Background */
-
 body {
-    background-color: #f5f0e6; /* beige background */
+    background-color: #f5f0e6; 
     font-family: Arial, sans-serif;
-    color: #004080; /* blue text */
+    color: #004080;
     margin: 0;
     padding: 0;
 }
 
 h1 {
     text-align: center;
-    color: #004080; /* blue heading */
+    color: #004080; 
     margin-top: 20px;
 }
 
-/* Each course box */
+
 .course-box {
-    background-color: #e6f0ff; /* light blue box */
-    border: 2px solid #004080; /* blue border */
+    background-color: #e6f0ff; 
+    border: 2px solid #004080;
     border-radius: 10px;
     padding: 15px;
     margin: 20px auto;
@@ -26,12 +24,13 @@ h1 {
 }
 
 .course-box h2 {
-    color: #004080; /* blue course name */
+    color: #004080;
     margin-top: 0;
 }
 
 .course-box p {
     line-height: 1.5;
     margin-top: 10px;
-    color: #004080; /* blue text inside box */
+    color: #004080; 
 }
+
